@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="pProcButton.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uprocbutton.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="36"/>
+        <CursorPos X="46" Y="50"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="4238"/>
+        <CursorPos Y="4258"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="30" Column="45" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="43" Column="14" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="52" Column="29" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="43" Column="43" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="15" Column="44"/>
+      </Position>
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="44" Column="16" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="46" Column="17" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="16" Column="27" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="41" Column="37" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="15" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="27" Column="15" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="uprocbutton.pas"/>
+        <Caret Line="61" Column="30" TopLine="42"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
